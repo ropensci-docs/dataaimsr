@@ -1,0 +1,12 @@
+{
+  "commit": {
+    "commit": "3d1b103a42476e653f63bb568772a2be936eb36d",
+    "author": "Diego Barneche <barnechedr@gmail.com>",
+    "time": "2022-07-10 22:34:14",
+    "files": 4,
+    "merge": false,
+    "message": "additional json test files\n"
+  },
+  "repo": "https://github.com/ropensci/dataaimsr",
+  "pkg": "dataaimsr"
+}
