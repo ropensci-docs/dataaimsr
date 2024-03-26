@@ -1,0 +1,12 @@
+pandoc: 2.16.2
+pkgdown: 2.0.7
+pkgdown_sha: ~
+articles:
+  navigating: navigating.html
+  tloggers: tloggers.html
+  weather: weather.html
+last_built: 2024-03-26T06:39Z
+urls:
+  reference: https://docs.ropensci.org/dataaimsr/reference
+  article: https://docs.ropensci.org/dataaimsr/articles
+
